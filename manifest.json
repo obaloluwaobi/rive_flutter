@@ -2,6 +2,7 @@
     "name": "flutter_rive",
     "short_name": "flutter_rive",
     "start_url": ".",
+    "installable":false,
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
